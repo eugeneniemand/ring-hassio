@@ -1,0 +1,8 @@
+{
+    "codeowners": ["@jeroenterheerdt"],
+    "dependencies": [],
+    "documentation": "https://github.com/jeroenterheerdt/ring-hassio",
+    "domain": "ringliveview",
+    "name": "Ring Live View",
+    "requirements": []
+}
